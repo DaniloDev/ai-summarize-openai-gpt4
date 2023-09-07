@@ -1,6 +1,6 @@
 # AI Summarize using OpenAI GPT-4 - React, Redux, Redux toolkit & Vite
 
-![preview img](/preview.png)
+![preview img](/preview.PNG)
 
 ## AI Summarize - Get a quick summary of any website
 
