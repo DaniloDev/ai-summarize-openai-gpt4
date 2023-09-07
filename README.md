@@ -1,8 +1,49 @@
-# React + Vite
+# AI Summarize using OpenAI GPT-4 - React, Redux, Redux toolkit & Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![preview img](/preview.png)
 
-Currently, two official plugins are available:
+## AI Summarize - Get a quick summary of any website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📚https://ai-summarize-openai-gpt4.netlify.app
+
+## What did I do in this project?
+
+- React
+- Vite to run and build
+- LocalStorage to save the articles
+- Deploy at netlify
+
+- #### Click here -> https://ai-summarize-openai-gpt4.netlify.app
+
+### To execute
+
+- .env - To configure environment variables - take your api key in https://rapidapi.com/ and subscribe in https://rapidapi.com/restyler/api/article-extractor-and-summarizer
+
+- npm install - To install packages
+- npm run dev - To run the application
+- npm run build - to build your project and drag your package(dist) in dashboard at the netlify
+
+  ####################################### **Portuguese below** #####################################################
+
+# AI Summarize using OpenAI GPT-4 - React, Redux, Redux toolkit & Vite
+
+## AI Summarize - Obtenha um resumo rápido de qualquer site
+
+📚https://ai-summarize-openai-gpt4.netlify.app
+
+## O que eu fiz neste projeto?
+
+- React
+- Vite para executar e fazer build
+- LocalStorage para salvar os artigos
+- Deploy na netlify
+
+- #### Clique aqui -> https://ai-summarize-openai-gpt4.netlify.app
+
+### Para Executar
+
+- .env - Para configurar variáveis de ambiente - pegaue sua api key in https://rapidapi.com/ e de subscribe em https://rapidapi.com/restyler/api/article-extractor-and-summarizer
+
+- npm install - Para instalar pacotes
+- npm run dev - Para executar o aplicativo
+- npm run build -para construir seu projeto e arrastar seu pacote (dist) no painel do netlify
